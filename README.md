@@ -186,4 +186,16 @@
     renderTodos();
   </script>
 </body>
-</html>
+</html>todo-form">
+  <input
+    id="todo-input"
+    type="text"
+    placeholder="พิมพ์งานที่ต้องทำ..."
+    autocomplete="off"
+    required
+  />
+  <button type="submit">เพิ่ม</button>
+</form>
+
+<ul id="todo-list"></ul>
+<p id="empty-message" class="empty">ยังไม่มีรายการ</p>
