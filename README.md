@@ -1,5 +1,5 @@
     # -<index.html-run>
-<!DOCTYPE html>
+l
 <html lang="th">
 <head>
   <meta charset="UTF-8" />
